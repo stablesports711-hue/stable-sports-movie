@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://fastshare1.com:8080//live/25711345/late8airline/4748.ts
