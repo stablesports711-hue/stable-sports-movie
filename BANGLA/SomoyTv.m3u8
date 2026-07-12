@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+http://172.17.50.115:84/ant1008/video.m3u8
+#https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
