@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-https://bdixserver.tvhunter.top/ant1003/tracks-v1a1/index.m3u8
-$https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
+
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
