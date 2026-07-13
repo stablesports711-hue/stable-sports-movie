@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000
-http://172.17.50.115:84/ant1003/video.m3u8
+https://bdixserver.tvhunter.top/ant1003/tracks-v1a1/index.m3u8
 
