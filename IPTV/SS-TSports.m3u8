@@ -2,3 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 http://103.151.60.204:881/DADA-TSports/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
+http://103.165.93.31:8095/tsports/video.m3u8
+#@stable-sports-iptv™
