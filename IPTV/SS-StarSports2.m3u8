@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://monirul.bro.bd/sm/live.php?id=star_sports_2&e=.m3u8
+http://103.102.27.173:84/STAR-SPORTS-2-HD/index.m3u8
 #https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_2_HD.m3u8
