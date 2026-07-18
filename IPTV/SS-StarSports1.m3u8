@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://monirul.bro.bd/sm/live.php?id=star_sports_2&e=.m3u8
+http://monirul.bro.bd/sm/live.php?id=star_sports_1&e=.m3u8
 #http://114.130.57.233:8080/StarSports1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
