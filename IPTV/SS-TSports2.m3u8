@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://172.17.50.115:84/ant1009/tracks-v1a1/mono.m3u8
+http://172.17.50.115:84/ant1006/tracks-v1a1/mono.m3u8
