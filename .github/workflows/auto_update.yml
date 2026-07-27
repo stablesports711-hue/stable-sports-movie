@@ -3,7 +3,7 @@ name: Auto Update Channel Links
 on:
   schedule:
     # প্রতি ১৫ মিনিট পর পর রান হবে
-    - cron: '*/15 * * * *'
+    - cron: '*/20 * * * *'
   workflow_dispatch: # ম্যানুয়ালি টেস্ট করার জন্য
 
 # গিটহাব অ্যাকশনকে পুশ/রাইট করার পারমিশন দেওয়া হচ্ছে
