@@ -9,6 +9,9 @@ TARGET_NAME = "GSL"
 # আউটপুট ফাইলের নাম
 OUTPUT_FILE = "gsl_playlist.m3u8"
 
+# চ্যানেল না পাওয়া গেলে যে ডিফল্ট লিংক বসাতে চান (ইচ্ছা হলে পরিবর্তন করতে পারেন)
+DEFAULT_OFFLINE_LINK = "http://example.com/offline.m3u8"
+
 try:
     # M3U ডাটা ডাউনলোড
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -21,23 +24,31 @@ try:
         "#EXT-X-VERSION:3\n"
     ]
     
+    found_channel = False
+    
     # M3U ফাইল ফিল্টার করা
     i = 0
     while i < len(lines):
         line = lines[i].strip()
         
-        # যদি লাইনে EXTINF থাকে এবং তাতে টার্গেট নাম (GSL) মিল পায়
+        # যদি EXTINF লাইনে GSL ম্যাচ করে
         if line.startswith("#EXTINF") and TARGET_NAME.lower() in line.lower():
-            # কাস্টম STREAM-INF ট্যাগ যোগ করা
+            # STREAM-INF হেডার যোগ করা
             filtered_output.append("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000\n")
             
-            # #EXTINF লাইন বাদ দিয়ে সরাসরি পরের লাইনের m3u8 লিংকটি নেয়া
+            # সরাসরি নিচের লিংকটি নেয়া
             if i + 1 < len(lines) and not lines[i + 1].startswith("#"):
                 filtered_output.append(lines[i + 1] + "\n\n")
+                found_channel = True
                 i += 1
         i += 1
 
-    # নতুন ফাইলে সেভ করা
+    # যদি GSL নামে কিছু না পাওয়া যায়, তবে ডিফল্ট লিংক বসবে
+    if not found_channel:
+        filtered_output.append("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000\n")
+        filtered_output.append(DEFAULT_OFFLINE_LINK + "\n")
+
+    # ফাইল সেভ করা
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.writelines(filtered_output)
         
