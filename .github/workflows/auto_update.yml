@@ -2,9 +2,13 @@ name: Auto Update Channel Links
 
 on:
   schedule:
-    # প্রতি ১৫ মিনিট পর পর রান হবে (Cron Job)
+    # প্রতি ১৫ মিনিট পর পর রান হবে
     - cron: '*/15 * * * *'
   workflow_dispatch: # ম্যানুয়ালি টেস্ট করার জন্য
+
+# গিটহাব অ্যাকশনকে পুশ/রাইট করার পারমিশন দেওয়া হচ্ছে
+permissions:
+  contents: write
 
 jobs:
   update-links:
@@ -12,10 +16,10 @@ jobs:
 
     steps:
     - name: Check out repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
 
