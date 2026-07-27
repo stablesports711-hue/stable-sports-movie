@@ -1,10 +1,10 @@
 import urllib.request
 
 # Raw M3U Link
-url = "https://raw.githubusercontent.com/mdarif2743/Cmcl-digital-mpd/refs/heads/main/README.m3u"
+url = "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u"
 
 # আপনার টার্গেট চ্যানেল নাম
-TARGET_NAME = "SA TV"
+TARGET_NAME = "ICC CWC"
 
 # আউটপুট ফাইলের নাম
 OUTPUT_FILE = "gsl_playlist.m3u8"
