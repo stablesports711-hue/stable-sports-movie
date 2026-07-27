@@ -7,7 +7,7 @@ url = "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_
 TARGET_NAME = "GSL"
 
 # আউটপুট ফাইলের নাম
-OUTPUT_FILE = "gsl_playlist.m3u"
+OUTPUT_FILE = "gsl_playlist.m3u8"
 
 try:
     # M3U ডাটা ডাউনলোড
