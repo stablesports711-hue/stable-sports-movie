@@ -31,30 +31,31 @@ try:
             "#EXTM3U\n",
             "#EXT-X-VERSION:3\n"
         ]
-        
+
         found_channel = False
-        
+
         i = 0
         while i < len(lines):
             line = lines[i].strip()
-            
+
             # টার্গেট চ্যানেল ম্যাচ করলে
             if line.startswith("#EXTINF") and TARGET_NAME.lower() in line.lower():
                 if i + 1 < len(lines) and not lines[i + 1].startswith("#"):
                     stream_link = lines[i + 1].strip()
-                    
+
                     # যদি পাওয়া লিংকটি গিটহাবের আরেকটা M3U8 প্লেলিস্ট হয়, তবে তার ভেতর ঢুকে আসল লিংক বের করা
                     if "raw.githubusercontent.com" in stream_link and stream_link.endswith((".m3u", ".m3u8")):
                         sub_content = fetch_content(stream_link)
                         if sub_content:
                             sub_lines = [l.strip() for l in sub_content.splitlines() if l.strip() and not l.startswith("#")]
                             if sub_lines:
-                                stream_link = sub_lines[-1] # আসল ডাইরেক্ট ভিডিও লিংকটি নেয়া হলো
-                    
+                                stream_link = sub_lines[-1]  # আসল ডাইরেক্ট ভিডিও লিংকটি নেয়া হলো
+
                     filtered_output.append("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000\n")
                     filtered_output.append(stream_link + "\n\n")
                     found_channel = True
-                    i += 1
+                    break   # প্রথম ম্যাচ পাওয়ার পর আর অন্য কোনো চ্যানেল খুঁজবে না
+
             i += 1
 
         # না পাওয়া গেলে
@@ -65,7 +66,7 @@ try:
         # ফাইল সেভ করা
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.writelines(filtered_output)
-            
+
         print(f"Successfully generated {OUTPUT_FILE}")
 
 except Exception as e:
