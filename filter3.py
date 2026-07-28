@@ -7,7 +7,7 @@ url = "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_
 TARGET_NAME = "cricket"
 
 # আউটপুট ফাইলের নাম
-OUTPUT_FILE = "Fancode1.m3u8"
+OUTPUT_FILE = "Fancode2.m3u8"
 
 # চ্যানেল না পাওয়া গেলে ডিফল্ট লিংক
 DEFAULT_OFFLINE_LINK = "http://example.com/offline.m3u8"
