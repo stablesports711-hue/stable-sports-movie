@@ -1,0 +1,34 @@
+name: Fancode1 Channel
+
+on:
+  schedule:
+    # প্রতি ১৫ মিনিট পর পর রান হবে
+    - cron: '*/20 * * * *'
+  workflow_dispatch: # ম্যানুয়ালি টেস্ট করার জন্য
+
+# গিটহাব অ্যাকশনকে পুশ/রাইট করার পারমিশন দেওয়া হচ্ছে
+permissions:
+  contents: write
+
+jobs:
+  update-links:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Run filter script
+      run: python filter.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add Fancode1.m3u8
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto updated playlist" && git push)
