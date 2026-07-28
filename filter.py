@@ -4,7 +4,7 @@ import urllib.request
 url = "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u"
 
 # আপনার টার্গেট চ্যানেল নাম
-TARGET_NAME = "Global Super"
+TARGET_NAME = "Lanka Premier League"
 
 # আউটপুট ফাইলের নাম
 OUTPUT_FILE = "gsl_playlist.m3u8"
