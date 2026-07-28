@@ -1,6 +1,6 @@
 name: Fancode1 Channel
 
-oon:
+on:
   schedule:
     - cron: '0 6 * * *'    # 12:00 PM BST
     - cron: '0 8 * * *'    # 2:00 PM BST
