@@ -7,7 +7,7 @@ url = "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_
 TARGET_NAME = "Lanka Premier League"
 
 # আউটপুট ফাইলের নাম
-OUTPUT_FILE = "gsl_playlist.m3u8"
+OUTPUT_FILE = "LPL_playlist.m3u8"
 
 # চ্যানেল না পাওয়া গেলে ডিফল্ট লিংক
 DEFAULT_OFFLINE_LINK = "https://res.cloudinary.com/qleik3si/video/upload/v1785235285/VN20260728_161756_ev6pow.mp4"
