@@ -1,9 +1,21 @@
 name: Fancode1 Channel
 
-on:
+oon:
   schedule:
-   
-    - cron: '*/20 * * * *'
+    - cron: '0 6 * * *'    # 12:00 PM BST
+    - cron: '0 8 * * *'    # 2:00 PM BST
+    - cron: '30 9 * * *'   # 3:30 PM BST
+    - cron: '0 11 * * *'   # 5:00 PM BST
+    - cron: '0 13 * * *'   # 7:00 PM BST
+    - cron: '0 14 * * *'   # 8:00 PM BST
+    - cron: '0 16 * * *'   # 10:00 PM BST
+    - cron: '0 18 * * *'   # 12:00 AM BST
+    - cron: '0 22 * * *'   # 4:00 AM BST
+    - cron: '0 0 * * *'    # 6:00 AM BST
+    - cron: '0 2 * * *'    # 8:00 AM BST
+    - cron: '0 4 * * *'    # 10:00 AM BST
+    - cron: '30 4 * * *'   # 10:30 AM BST
+    - cron: '0 5 * * *'    # 11:00 AM BST
   workflow_dispatch: # ম্যানুয়ালি টেস্ট করার জন্য
 
 # গিটহাব অ্যাকশনকে পুশ/রাইট করার পারমিশন দেওয়া হচ্ছে
