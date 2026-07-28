@@ -2,7 +2,7 @@ name: Fancode1 Channel
 
 on:
   schedule:
-    # প্রতি ১৫ মিনিট পর পর রান হবে
+   
     - cron: '*/20 * * * *'
   workflow_dispatch: # ম্যানুয়ালি টেস্ট করার জন্য
 
@@ -24,7 +24,7 @@ jobs:
         python-version: '3.x'
 
     - name: Run filter script
-      run: python filter.py
+      run: python filter2.py
 
     - name: Commit and push changes
       run: |
