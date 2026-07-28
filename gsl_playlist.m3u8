@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://example.com/offline.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4247440_english_hls_4a73bf788950453_1ta-di_h264/1080p.m3u8
+
