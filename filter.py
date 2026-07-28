@@ -10,7 +10,7 @@ TARGET_NAME = "Global Super"
 OUTPUT_FILE = "gsl_playlist.m3u8"
 
 # চ্যানেল না পাওয়া গেলে ডিফল্ট লিংক
-DEFAULT_OFFLINE_LINK = "http://example.com/offline.m3u8"
+DEFAULT_OFFLINE_LINK = "https://res.cloudinary.com/qleik3si/video/upload/v1785235285/VN20260728_161756_ev6pow.mp4"
 
 def fetch_content(link_url):
     """লিংক থেকে কনটেন্ট রিড করার ফাংশন"""
