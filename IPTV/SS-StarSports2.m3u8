@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:3600
 #EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:3600.0
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/239.ts
