@@ -41,25 +41,31 @@ try:
             # টার্গেট চ্যানেল ম্যাচ করলে
             if line.startswith("#EXTINF") and TARGET_NAME.lower() in line.lower():
                 if i + 1 < len(lines) and not lines[i + 1].startswith("#"):
+                    extinf_line = line
                     stream_link = lines[i + 1].strip()
                     
-                    # যদি পাওয়া লিংকটি গিটহাবের আরেকটা M3U8 প্লেলিস্ট হয়, তবে তার ভেতর ঢুকে আসল লিংক বের করা
-                    if "raw.githubusercontent.com" in stream_link and stream_link.endswith((".m3u", ".m3u8")):
+                    # লিঙ্কটি গিটহাবের M3U/M3U8 হলে সেটির ভিতরে ঢুকে সম্পূর্ণ কনটেন্ট নিয়ে আসবে
+                    if "github" in stream_link.lower() and stream_link.endswith((".m3u", ".m3u8")):
                         sub_content = fetch_content(stream_link)
                         if sub_content:
-                            sub_lines = [l.strip() for l in sub_content.splitlines() if l.strip() and not l.startswith("#")]
-                            if sub_lines:
-                                stream_link = sub_lines[-1] # আসল ডাইরেক্ট ভিডিও লিংকটি নেয়া হলো
-                    
-                    filtered_output.append("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000\n")
-                    filtered_output.append(stream_link + "\n\n")
-                    found_channel = True
+                            sub_lines = sub_content.splitlines()
+                            for sub_line in sub_lines:
+                                # সাব-ফাইলের হেডার লাইন বাদ দিয়ে বাকিসব হুবহু যুক্ত করা হবে
+                                if sub_line.strip() and not sub_line.startswith("#EXTM3U") and not sub_line.startswith("#EXT-X-VERSION"):
+                                    filtered_output.append(sub_line + "\n")
+                            found_channel = True
+                    else:
+                        # যদি গিটহাবের ফাইল না হয়, তবে মেইন ফাইলের আসল #EXTINF এবং লিঙ্ক দুটিই যুক্ত হবে
+                        filtered_output.append(extinf_line + "\n")
+                        filtered_output.append(stream_link + "\n")
+                        found_channel = True
+                        
                     i += 1
             i += 1
 
-        # না পাওয়া গেলে
+        # চ্যানেল না পাওয়া গেলে ডিফল্ট অফলাইন ভিডিও দেখাবে
         if not found_channel:
-            filtered_output.append("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000\n")
+            filtered_output.append(f'#EXTINF:-1 tvg-logo="" group-title="Offline", {TARGET_NAME} (Offline)\n')
             filtered_output.append(DEFAULT_OFFLINE_LINK + "\n")
 
         # ফাইল সেভ করা
