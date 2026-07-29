@@ -1,78 +1,62 @@
 import urllib.request
+import re
 
-# Raw M3U Link
-url = "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u"
+# ১. মূল M3U প্লেলিস্ট লিংক
+SOURCE_URL = "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u"
 
-# আপনার টার্গেট চ্যানেল নাম
-TARGET_NAME = "Lanka Premier League"
+# ২. আপনার ফিল্টার করার টার্গেট নাম (যেমন: LPL, Lanka Premier League, Cricket ইত্যাদি)
+TARGET_NAME = "LPL"
 
-# আউটপুট ফাইলের নাম
-OUTPUT_FILE = "LPL_playlist.m3u8"
+# ৩. আউটপুট ফাইলের নাম
+OUTPUT_FILE = "LPL.m3u8"
 
-# চ্যানেল না পাওয়া গেলে ডিফল্ট লিংক
-DEFAULT_OFFLINE_LINK = "https://res.cloudinary.com/qleik3si/video/upload/v1785235285/VN20260728_161756_ev6pow.mp4"
-
-def fetch_content(link_url):
-    """লিংক থেকে কনটেন্ট রিড করার ফাংশন"""
+def fetch_data(url):
+    """অনলাইন থেকে ডাটা ফেচ করার ফাংশন"""
     try:
-        req = urllib.request.Request(link_url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req, timeout=10) as response:
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=15) as response:
             return response.read().decode('utf-8')
     except Exception as e:
-        print(f"Error fetching {link_url}: {e}")
+        print(f"Error fetching URL {url}: {e}")
         return None
 
-try:
-    content = fetch_content(url)
+def main():
+    print(f"Downloading main playlist...")
+    main_playlist = fetch_data(SOURCE_URL)
+    
+    if not main_playlist:
+        print("Main playlist could not be downloaded!")
+        return
 
-    if content:
-        lines = content.splitlines()
-        filtered_output = [
-            "#EXTM3U\n",
-            "#EXT-X-VERSION:3\n"
-        ]
+    lines = main_playlist.splitlines()
+    stream_url = None
+
+    # ৪. টার্গেট নাম দিয়ে M3U এর ভেতর লিংক খোঁজা
+    for i, line in enumerate(lines):
+        # লাইনটিতে #EXTINF আছে কিনা এবং টার্গেট নামটি কেস-ইনসেনসিটিভ ভাবে মেলে কিনা
+        if line.startswith("#EXTINF") and TARGET_NAME.lower() in line.lower():
+            # টার্গেট লাইনের ঠিক নিচের লাইনে ভিডিও লিংকটি থাকে
+            if i + 1 < len(lines):
+                potential_link = lines[i + 1].strip()
+                if potential_link.startswith("http"):
+                    stream_url = potential_link
+                    print(f"Found target stream URL: {stream_url}")
+                    break
+
+    # ৫. টার্গেট লিংক পেলে তার ভেতরে ঢুকে পুরো স্ট্রিম ডাটা নিয়ে আসা
+    if stream_url:
+        print(f"Fetching stream content from target link...")
+        stream_content = fetch_data(stream_url)
         
-        found_channel = False
-        
-        i = 0
-        while i < len(lines):
-            line = lines[i].strip()
-            
-            # টার্গেট চ্যানেল ম্যাচ করলে
-            if line.startswith("#EXTINF") and TARGET_NAME.lower() in line.lower():
-                if i + 1 < len(lines) and not lines[i + 1].startswith("#"):
-                    extinf_line = line
-                    stream_link = lines[i + 1].strip()
-                    
-                    # লিঙ্কটি গিটহাবের M3U/M3U8 হলে সেটির ভিতরে ঢুকে সম্পূর্ণ কনটেন্ট নিয়ে আসবে
-                    if "github" in stream_link.lower() and stream_link.endswith((".m3u", ".m3u8")):
-                        sub_content = fetch_content(stream_link)
-                        if sub_content:
-                            sub_lines = sub_content.splitlines()
-                            for sub_line in sub_lines:
-                                # সাব-ফাইলের হেডার লাইন বাদ দিয়ে বাকিসব হুবহু যুক্ত করা হবে
-                                if sub_line.strip() and not sub_line.startswith("#EXTM3U") and not sub_line.startswith("#EXT-X-VERSION"):
-                                    filtered_output.append(sub_line + "\n")
-                            found_channel = True
-                    else:
-                        # যদি গিটহাবের ফাইল না হয়, তবে মেইন ফাইলের আসল #EXTINF এবং লিঙ্ক দুটিই যুক্ত হবে
-                        filtered_output.append(extinf_line + "\n")
-                        filtered_output.append(stream_link + "\n")
-                        found_channel = True
-                        
-                    i += 1
-            i += 1
+        if stream_content:
+            # LPL.m3u8 ফাইলের মধ্যে কোডটি সেভ করা
+            with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+                f.write(stream_content)
+            print(f"Successfully created '{OUTPUT_FILE}' with nested stream content!")
+        else:
+            print("Failed to fetch stream content from the found URL.")
+    else:
+        print(f"Target '{TARGET_NAME}' not found in the main playlist.")
 
-        # চ্যানেল না পাওয়া গেলে ডিফল্ট অফলাইন ভিডিও দেখাবে
-        if not found_channel:
-            filtered_output.append(f'#EXTINF:-1 tvg-logo="" group-title="Offline", {TARGET_NAME} (Offline)\n')
-            filtered_output.append(DEFAULT_OFFLINE_LINK + "\n")
-
-        # ফাইল সেভ করা
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            f.writelines(filtered_output)
-            
-        print(f"Successfully generated {OUTPUT_FILE}")
-
-except Exception as e:
-    print(f"Error occurred: {e}")
+if __name__ == "__main__":
+    main()
