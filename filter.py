@@ -5,7 +5,7 @@ import re
 SOURCE_URL = "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u"
 
 # ২. আপনার ফিল্টার করার টার্গেট নাম (যেমন: LPL, Lanka Premier League, Cricket ইত্যাদি)
-TARGET_NAME = "LPL"
+TARGET_NAME = "Lanka Premier League"
 
 # ৩. আউটপুট ফাইলের নাম
 OUTPUT_FILE = "LPL.m3u8"
