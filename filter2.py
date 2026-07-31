@@ -1,7 +1,7 @@
 import urllib.request
 
 # Raw M3U Link
-url = "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u"
+url = "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
 
 # আপনার টার্গেট চ্যানেল নাম
 TARGET_NAME = "cricket"
