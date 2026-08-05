@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0H728GVDB" tvg-name="The Hundred Womens Competition 2026 - 22nd Match - Trent Rockets Women vs Birmingham Phoenix Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc21a9f3-5782-42df-82d9-43866be92200/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 22nd Match - Trent Rockets Women vs Birmingham Phoenix Women
+#EXTINF:-1 tvg-id="B0H728GVDB" tvg-name="The Hundred Womens Competition 2026 - 22nd Match - Trent Rockets Women vs Birmingham Phoenix Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc21a9f3-5782-42df-82d9-43866be92200/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",The Hundred Womens Competition 2026 - 22nd Match - Trent Rockets Women vs Birmingham Phoenix Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58773419ece0390ef34c7380b9dd71cd:7942050a4989357553266d7886b8c5d4
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/14hv5xah0n/out/v1/a44a2c04066d43c0b3a210f05e0222dc/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/14hv5xah0n/out/v1/a44a2c04066d43c0b3a210f05e0222dc/cenc.mpd
 
