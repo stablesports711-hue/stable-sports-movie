@@ -4,5 +4,5 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58773419ece0390ef34c7380b9dd71cd:7942050a4989357553266d7886b8c5d4
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/14hv5xah0n/out/v1/a44a2c04066d43c0b3a210f05e0222dc/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/14hv5xah0n/out/v1/a44a2c04066d43c0b3a210f05e0222dc/cenc.mpd
 
