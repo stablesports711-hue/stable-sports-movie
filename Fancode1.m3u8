@@ -1,8 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HCCHX96C" tvg-name="Global e-Cricket Premier League 2026 - 37th Match - Pune Stallions vs Kolkata Hawks" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.357cfd6f-e117-4442-97af-e45f58a8f39d/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Global e-Cricket Premier League 2026 - 37th Match - Pune Stallions vs Kolkata Hawks
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d95a317bd7d51ea406c052f1e01cdec9:19a58914ee420e9caf5d1f61a45f2133
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gdenkjmfcg/out/v1/7f55c09e1c904d618dce961773b120c3/cenc.mpd
-
+#EXTINF:-1 tvg-name="Offline",Offline
+https://res.cloudinary.com/qleik3si/video/upload/v1785235285/VN20260728_161756_ev6pow.mp4
