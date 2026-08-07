@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HCL9R674" tvg-name="Afghanistan tour of Ireland 2026 - 2nd ODI - Ireland vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fa0c24e5-e1e3-4036-808f-7943279cda23/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan tour of Ireland 2026 - 2nd ODI - Ireland vs Afghanistan
+#EXTINF:-1 tvg-id="B0HCYVC8WN" tvg-name="Caribbean Premier League 2026 - 1st Match - Jamaica Kingsmen vs Antigua And Barbuda Falcons" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.37d81554-6bbd-4783-b910-3646bd8d3d03/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 1st Match - Jamaica Kingsmen vs Antigua And Barbuda Falcons
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=400e3a6fbb3142beda746fc6ab908dbd:596117ca9b94249b73d0fba6060aac8b
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zze2qgnuud/out/v1/7ed0272c46aa4980951173ca02a16033/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=12b02d4beb3c9e98acaca0233a05b91b:498f083b126ee50aaff547940d883724
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpbktoimpn/out/v1/37b2c6133804491186aff2febea42f0e/cenc.mpd
 
