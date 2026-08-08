@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:46
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:46.0,
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/124281.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=809383&extension=m3u8
