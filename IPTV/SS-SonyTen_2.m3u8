@@ -1,7 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:46
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:46.0,
-http://filex.me:8080/live/3114654477/5787654467/52085.ts
-#https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SPORTS_TEN_2_HD.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3200000
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=373199&extension=m3u8
