@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:3600
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:3600.0
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9400.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=155972&extension=m3u8
