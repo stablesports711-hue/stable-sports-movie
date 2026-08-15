@@ -1,10 +1,10 @@
 import urllib.request
 
 # Raw M3U Link
-url = "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"
+url = "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u"
 
 # আপনার টার্গেট চ্যানেল নাম
-TARGET_NAME = "cricket"
+TARGET_NAME = "India Tour of Sri Lanka"
 
 # আউটপুট ফাইলের নাম
 OUTPUT_FILE = "Fancode1.m3u8"
