@@ -2,10 +2,10 @@ import urllib.request
 import re
 
 # ১. মূল M3U প্লেলিস্ট লিংক
-SOURCE_URL = "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u"
+SOURCE_URL = "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u"
 
 # ২. আপনার ফিল্টার করার টার্গেট নাম (যেমন: LPL, Lanka Premier League, Cricket ইত্যাদি)
-TARGET_NAME = "Lanka Premier League"
+TARGET_NAME = "India Tour of Sri Lanka"
 
 # ৩. আউটপুট ফাইলের নাম
 OUTPUT_FILE = "LPL.m3u8"
