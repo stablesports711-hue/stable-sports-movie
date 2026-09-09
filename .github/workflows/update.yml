@@ -2,9 +2,9 @@ name: Auto Update IPTV Playlist
 
 on:
   schedule:
-    # ১৫ মিনিট পরপর রান হওয়ার জন্য Cron Job
+    # প্রতি ১৫ মিনিট পর পর স্বয়ংক্রিয়ভাবে রান হবে
     - cron: '*/15 * * * *'
-  workflow_dispatch: # ম্যানুয়ালি রান করার জন্য অপশন
+  workflow_dispatch: # প্রয়োজন হলে ম্যানুয়ালি রান করার জন্য
 
 jobs:
   update-m3u:
@@ -22,7 +22,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 googletrans==4.0.0-rc1
 
       - name: Run Scraper
         run: python scraper.py
