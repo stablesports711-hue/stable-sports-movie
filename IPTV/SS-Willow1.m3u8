@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5550000
-https://rolextv.one:443/live/8435630013/1234512345/27269.m3u8
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8
+#https://rolextv.one:443/live/8435630013/1234512345/27269.m3u8
 #http://bosstv.click:8080/live/18012689/77561563/92700.m3u8
 
