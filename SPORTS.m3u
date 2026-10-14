@@ -1,33 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8" group-title="" ,
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8" group-title="AU-Cricket",FOX CRICKET 501 FHD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/LPL1.m3u8" group-title="" ,
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/LPL1.m3u8
-
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8" group-title="" ,
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8" group-title="PK-Cricket",A SPORTS FHD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8" group-title="" ,
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8" group-title="Cricker",CRICBUZZ HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz1.m3u8" group-title="" ,
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz1.m3u8" group-title="Cricket",CRICBUZZ 1 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz1.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz2.m3u8" group-title="" ,
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz2.m3u8" group-title="Cricket",CRICBUZZ 1 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz2.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-GeoSuper.m3u8" group-title="" ,
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-GeoSuper.m3u8" group-title="PK-Cricket",GEO SUPER HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-GeoSuper.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8" group-title="" ,
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8" group-title="PK-Cricket",PTV SPORTS FHD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_1.m3u8" group-title="" ,
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_1.m3u8" group-title="IN-Cricket",SONY TEN 1 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_1.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_2.m3u8" group-title="" ,
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_2.m3u8" group-title="IN-Cricket",SONY TEN 2 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_2.m3u8
 
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_3.m3u8" group-title="" ,
