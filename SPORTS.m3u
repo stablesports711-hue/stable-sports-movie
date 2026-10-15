@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8" group-title="AU-Cricket",FOX CRICKET 501 FHD
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/q72PSbWm/20260601-214906.png" group-title="AU-Cricket",FOX CRICKET 501 FHD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8" group-title="PK-Cricket",A SPORTS FHD
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="PK-Cricket",A SPORTS FHD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8" group-title="Cricker",CRICBUZZ HD
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cricbuzz-logo-png_seeklogo-429413.png" group-title="Cricker",CRICBUZZ HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz1.m3u8" group-title="Cricket",CRICBUZZ 1 HD
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/NF489yZJ/STABLE-SPORTS1.png" group-title="Cricket",CRICBUZZ 1 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz1.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz2.m3u8" group-title="Cricket",CRICBUZZ 1 HD
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/tRhBGJvV/STABLE-SPORTS2.png" group-title="Cricket",CRICBUZZ 2 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz2.m3u8
 
-#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-GeoSuper.m3u8" group-title="PK-Cricket",GEO SUPER HD
+#EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://i.postimg.cc/3N8gLCsG/images-(2).jpg" group-title="PK-Cricket",GEO SUPER HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-GeoSuper.m3u8
 
 #EXTINF:-1 tvg-id="stablesportstv" tvg-logo="https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8" group-title="PK-Cricket",PTV SPORTS FHD
