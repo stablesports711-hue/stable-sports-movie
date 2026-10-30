@@ -34,3 +34,4 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add playlist.m3u
         git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update playlist.m3u" && git push)
+
