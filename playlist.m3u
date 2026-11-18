@@ -1,1 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="4606" tvg-name="┃UK┃ ☰☰☰☰ ┃UK┃ HUB PREMIER PPV ☰☰☰☰" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ ☰☰☰☰ ┃UK┃ HUB PREMIER PPV ☰☰☰☰
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1314076&extension=m3u8
+#EXTINF:-1 tvg-id="4607" tvg-name="┃UK┃ HUB PREMIER 2 4K UHD" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 2 4K UHD
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1314088&extension=m3u8
+#EXTINF:-1 tvg-id="4608" tvg-name="┃UK┃ HUB PREMIER 1 FHD" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 1 FHD
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1314077&extension=m3u8
+#EXTINF:-1 tvg-id="4609" tvg-name="┃UK┃ HUB PREMIER 2 FHD" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 2 FHD
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1314078&extension=m3u8
+#EXTINF:-1 tvg-id="4610" tvg-name="┃UK┃ HUB PREMIER 3 FHD" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 3 FHD
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1314079&extension=m3u8
+#EXTINF:-1 tvg-id="4611" tvg-name="┃UK┃ HUB PREMIER 4 FHD" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 4 FHD
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1314080&extension=m3u8
+#EXTINF:-1 tvg-id="4612" tvg-name="┃UK┃ HUB PREMIER 5 FHD" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 5 FHD
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1314081&extension=m3u8
+#EXTINF:-1 tvg-id="4613" tvg-name="┃UK┃ HUB PREMIER 6 FHD" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 6 FHD
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1314082&extension=m3u8
+#EXTINF:-1 tvg-id="4614" tvg-name="┃UK┃ HUB PREMIER 7 FHD" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 7 FHD
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1314083&extension=m3u8
+#EXTINF:-1 tvg-id="4615" tvg-name="┃UK┃ HUB PREMIER 8 FHD" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 8 FHD
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1314084&extension=m3u8
+#EXTINF:-1 tvg-id="4616" tvg-name="┃UK┃ HUB PREMIER 9 FHD" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 9 FHD
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1314085&extension=m3u8
+#EXTINF:-1 tvg-id="4617" tvg-name="┃UK┃ HUB PREMIER 10 FHD" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 10 FHD
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1314086&extension=m3u8
+#EXTINF:-1 tvg-id="4618" tvg-name="┃UK┃ HUB PREMIER 11 FHD" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 11 FHD
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1314087&extension=m3u8
