@@ -3,7 +3,7 @@ import re
 
 MAC_ADDRESS = "00:1B:77:36:26:BD"
 BASE_URL = f"http://liee.tivi..net/play/live.php?mac={MAC_ADDRESS}&stream={{}}&extension=m3u8"
-GITHUB_RAW_BASE = "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/"
+GITHUB_RAW_BASE = "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/LALIGA/"
 
 def process_playlist(input_m3u_path, target_dir="IPTV"):
     if not os.path.exists(target_dir):
