@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5550000
+http://liee.tivi..net/play/live.php?mac=00:1B:77:36:26:BD&stream=1304926&extension=m3u8
