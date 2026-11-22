@@ -3,7 +3,7 @@ import re
 from urllib.request import urlopen, Request
 
 # ==================== কনফিগারেশন ====================
-SOURCE_PLAYLIST = "source_playlist.m3u8"  # লোকাল ফাইল অথবা "https://..." URL
+SOURCE_PLAYLIST = "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/playlist.m3u"  # লোকাল ফাইল অথবা "https://..." URL
 IPTV_DIR = "IPTV"                        # ছবির ফোল্ডার পাথ
 DRY_RUN = False                          # True দিলে ফাইল না বদলে শুধু কী হবে দেখাবে
 # ====================================================
