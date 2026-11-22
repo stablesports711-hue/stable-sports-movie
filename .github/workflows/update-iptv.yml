@@ -1,0 +1,46 @@
+name: Update IPTV Stream Links
+
+on:
+  workflow_dispatch:
+    inputs:
+      playlist_url:
+        description: "সোর্স প্লেলিস্ট URL (খালি রাখলে update_stream_links.py-এর ডিফল্ট সোর্স ব্যবহার হবে)"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  update-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run link updater script
+        env:
+          SOURCE_PLAYLIST_INPUT: ${{ github.event.inputs.playlist_url }}
+        run: |
+          if [ -n "$SOURCE_PLAYLIST_INPUT" ]; then
+            sed -i "s|^SOURCE_PLAYLIST = .*|SOURCE_PLAYLIST = \"$SOURCE_PLAYLIST_INPUT\"|" update_stream_links.py
+          fi
+          python update_stream_links.py
+
+      - name: Commit and push updated IPTV files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add IPTV/*.m3u8
+          if git diff --staged --quiet; then
+            echo "কোনো লিংক পরিবর্তন হয়নি, commit করার প্রয়োজন নেই।"
+          else
+            git commit -m "Update IPTV stream links"
+            git push
+          fi
