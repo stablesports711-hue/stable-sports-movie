@@ -1,34 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2700" tvg-name="┃DE┃ DAZN LA LIGA 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 1
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1025537&extension=m3u8
-#EXTINF:-1 tvg-id="2701" tvg-name="┃DE┃ DAZN LA LIGA 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 2
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1025536&extension=m3u8
-#EXTINF:-1 tvg-id="2702" tvg-name="┃DE┃ DAZN LA LIGA 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 3
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1025535&extension=m3u8
-#EXTINF:-1 tvg-id="2703" tvg-name="┃DE┃ DAZN LA LIGA 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 4
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1025534&extension=m3u8
-#EXTINF:-1 tvg-id="2704" tvg-name="┃DE┃ DAZN LA LIGA 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 5
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1025533&extension=m3u8
-#EXTINF:-1 tvg-id="2705" tvg-name="┃DE┃ DAZN LA LIGA 6" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 6
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1025532&extension=m3u8
-#EXTINF:-1 tvg-id="2706" tvg-name="┃DE┃ DAZN LA LIGA 7" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 7
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1025531&extension=m3u8
-#EXTINF:-1 tvg-id="2707" tvg-name="┃DE┃ DAZN LA LIGA 8" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 8
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1025530&extension=m3u8
-#EXTINF:-1 tvg-id="2708" tvg-name="┃DE┃ DAZN LA LIGA 9" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 9
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1025529&extension=m3u8
-#EXTINF:-1 tvg-id="2709" tvg-name="┃DE┃ DAZN LA LIGA 10" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 10
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1025528&extension=m3u8
-#EXTINF:-1 tvg-id="8155" tvg-name="┃ES┃M+ REF FEDERACION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ REF FEDERACION/M+ REF FEDERACION.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃M+ REF FEDERACION FHD
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1279612&extension=m3u8
-#EXTINF:-1 tvg-id="8156" tvg-name="┃ES┃M+ REF FEDERACION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ REF FEDERACION/M+ REF FEDERACION.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃M+ REF FEDERACION HD
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1279613&extension=m3u8
-#EXTINF:-1 tvg-id="8157" tvg-name="┃ES┃M+ REF FEDERACION" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ REF FEDERACION/M+ REF FEDERACION.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃M+ REF FEDERACION
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1279614&extension=m3u8
-#EXTINF:-1 tvg-id="8158" tvg-name="┃ES┃ M+ LA LIGA 4K UHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ M+ LA LIGA 4K UHD
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=1044416&extension=m3u8
-#EXTINF:-1 tvg-id="8159" tvg-name="┃ES┃ M+ LA LIGA FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ M+ LA LIGA FHD HEVC
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=699397&extension=m3u8
+
 #EXTINF:-1 tvg-id="8160" tvg-name="┃ES┃ M+ LA LIGA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ M+ LA LIGA FHD
 http://line.tivi-ott.net/play/live.php?mac=00:1B:79:36:26:AC&stream=699395&extension=m3u8
 #EXTINF:-1 tvg-id="8161" tvg-name="┃ES┃ M+ LA LIGA 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSLALIGA.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ M+ LA LIGA 1 HD
