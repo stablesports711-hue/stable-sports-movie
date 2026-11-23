@@ -2,8 +2,8 @@ from pathlib import Path
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 # এখানে নতুন লিংক (base URL) এবং নতুন MAC অ্যাড্রেস দিন
-NEW_BASE_URL = "http://new-domain.example.com"
-NEW_MAC = "00:1A:2B:3C:4D:5E"
+NEW_BASE_URL = "http://main.light-ott.net"
+NEW_MAC = "00:1A:79:1D:12:35"
 
 # স্ক্রিপ্ট বা workflow ফোল্ডার বাদে পুরো repo স্ক্যান করার জন্য root হিসেবে বর্তমান ডিরেক্টরি ধরা হয়েছে
 ROOT_DIR = Path(".")
