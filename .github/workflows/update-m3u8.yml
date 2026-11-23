@@ -1,0 +1,40 @@
+name: Update M3U8 Links
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "update_m3u8.py"
+      - "**.m3u8"
+
+permissions:
+  contents: write
+
+jobs:
+  update-m3u8:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run M3U8 updater script
+        run: python update_m3u8.py
+
+      - name: Commit and push changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add -A
+            git commit -m "Update base URL and MAC in .m3u8 files"
+            git push
+          else
+            echo "No changes to commit."
+          fi
