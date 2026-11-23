@@ -3,5 +3,5 @@
 #EXT-X-TARGETDURATION:56
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:56.0,
-http://172.17.50.112:84/ant1007/video.m3u8
+http://main.light-ott.net/ant1007/video.m3u8?mac=00%3A1A%3A79%3A1D%3A12%3A35
 

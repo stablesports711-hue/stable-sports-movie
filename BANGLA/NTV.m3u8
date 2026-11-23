@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://103.165.93.31:8095/ntv/tracks-v1a1/mono.m3u8
+http://main.light-ott.net/ntv/tracks-v1a1/mono.m3u8?mac=00%3A1A%3A79%3A1D%3A12%3A35
