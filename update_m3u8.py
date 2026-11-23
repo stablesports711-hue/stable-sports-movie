@@ -5,7 +5,6 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 NEW_BASE_URL = "http://main.light-ott.net"
 NEW_MAC = "00:1A:79:1D:12:35"
 
-# স্ক্রিপ্ট বা workflow ফোল্ডার বাদে পুরো repo স্ক্যান করার জন্য root হিসেবে বর্তমান ডিরেক্টরি ধরা হয়েছে
 ROOT_DIR = Path(".")
 SKIP_DIRS = {".git", ".github", "__pycache__", "node_modules"}
 
@@ -18,14 +17,12 @@ def update_stream_url(line: str, new_base_url: str, new_mac: str) -> str:
     old_parts = urlsplit(raw_url)
     new_base_parts = urlsplit(new_base_url.strip())
 
-    # নতুন base URL থেকে scheme ও netloc (এবং প্রিফিক্স path থাকলে তা) নেওয়া হচ্ছে
     scheme = new_base_parts.scheme or old_parts.scheme
     netloc = new_base_parts.netloc or old_parts.netloc
     base_path = new_base_parts.path.rstrip("/")
     old_path = old_parts.path
     path = f"{base_path}{old_path}" if base_path else old_path
 
-    # Query string থেকে mac প্যারামিটার আপডেট করা হচ্ছে, বাকি প্যারামিটার ঠিক রেখে
     query_params = parse_qsl(old_parts.query, keep_blank_values=True)
     updated_query = []
     mac_found = False
@@ -40,10 +37,10 @@ def update_stream_url(line: str, new_base_url: str, new_mac: str) -> str:
     if not mac_found and new_mac.strip():
         updated_query.append(("mac", new_mac.strip()))
 
-    new_query = urlencode(updated_query)
+    # safe=":" দিলে MAC অ্যাড্রেসের ":" চিহ্নটি %3A না হয়ে ":" হিসেবেই থাকে
+    new_query = urlencode(updated_query, safe=":")
     updated_url = urlunsplit((scheme, netloc, path, new_query, old_parts.fragment))
 
-    # মূল লাইনের শেষের newline ধরে রাখা হচ্ছে
     ending = "\r\n" if line.endswith("\r\n") else ("\n" if line.endswith("\n") else "")
     return f"{updated_url}{ending}"
 
