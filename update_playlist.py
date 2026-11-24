@@ -3,10 +3,21 @@ import re
 
 MAC_ADDRESS = "00:1A:79:1D:12:35"
 BASE_URL = f"http://main.light-ott.net/play/live.php?mac={MAC_ADDRESS}&stream={{}}&extension=m3u8"
-GITHUB_RAW_BASE = "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/LALIGA/"
-def process_playlist(input_m3u_path, target_dir="IPTV"):
+
+# ==================== সহজে ফোল্ডার বদলানোর জায়গা ====================
+BASE_DIR = "IPTV"
+SUBFOLDER = "LALIGA"  # অন্য ফোল্ডারে রাখতে চাইলে শুধু এই নামটি বদলান (যেমন: "BPL", "IPL", "EPL")
+# =====================================================================
+
+TARGET_DIR = os.path.join(BASE_DIR, SUBFOLDER) if SUBFOLDER else BASE_DIR
+GITHUB_RAW_BASE = (
+    f"https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/{TARGET_DIR}/"
+)
+
+
+def process_playlist(input_m3u_path, target_dir=TARGET_DIR, raw_base=GITHUB_RAW_BASE):
     if not os.path.exists(target_dir):
-        os.makedirs(target_dir)
+        os.makedirs(target_dir, exist_ok=True)
 
     if not os.path.exists(input_m3u_path):
         print(f"Error: {input_m3u_path} file not found!")
@@ -23,7 +34,7 @@ def process_playlist(input_m3u_path, target_dir="IPTV"):
         stream_match = re.search(r'stream=(\d+)', old_url)
         if not stream_match:
             continue
-        
+
         stream_id = stream_match.group(1)
         safe_filename = f"{stream_id}.m3u8"
         file_path = os.path.join(target_dir, safe_filename)
@@ -39,17 +50,18 @@ def process_playlist(input_m3u_path, target_dir="IPTV"):
 
         with open(file_path, "w", encoding="utf-8") as out_f:
             out_f.write(file_content)
-        
+
         created_files += 1
 
         # মেইন প্লেলিস্টে র-লিংক বসানো
-        raw_link = f"{GITHUB_RAW_BASE}{safe_filename}"
+        raw_link = f"{raw_base}{safe_filename}"
         updated_content = updated_content.replace(old_url, raw_link)
 
     with open(input_m3u_path, "w", encoding="utf-8") as f:
         f.write(updated_content)
 
-    print(f"Successfully processed {created_files} channels into IPTV/LALIGA/ folder.")
+    print(f"Successfully processed {created_files} channels into {target_dir}/ folder.")
+
 
 if __name__ == "__main__":
     process_playlist("playlist.m3u")
