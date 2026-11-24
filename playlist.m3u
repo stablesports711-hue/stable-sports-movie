@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="20308" tvg-name="┃IN┃ UTSAV PLUS HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Utsav_Plus_HD_logo.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV PLUS HEVC
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D1646814%26extension%3Dts%26play_token%3Dz2Aq0M0h3c
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/1646814.m3u8
 #EXTINF:-1 tvg-id="20309" tvg-name="┃IN┃ UTSAV PLUS FHD (UK)" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Utsav_Plus_HD_logo.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV PLUS FHD (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D824004%26extension%3Dts%26play_token%3D6os6mIn7EB
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/824004.m3u8
 #EXTINF:-1 tvg-id="20310" tvg-name="┃IN┃ UTSAV PLUS HD (UK)" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Utsav_Plus_HD_logo.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV PLUS HD (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D372701%26extension%3Dts%26play_token%3DtIo0Ko0Ku6
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/372701.m3u8
 #EXTINF:-1 tvg-id="20311" tvg-name="┃IN┃ UTSAV PLUS (UK)  ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Utsav_Plus_HD_logo.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV PLUS (UK)  ⏺ʳᵉᶜ
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D372700%26extension%3Dts%26play_token%3D0g2h4wI7ps
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/372700.m3u8
 #EXTINF:-1 tvg-id="20312" tvg-name="┃IN┃ UTSAV GOLD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/utsavgold.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV GOLD HEVC
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D1646813%26extension%3Dts%26play_token%3D7Td7SfySF4
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/1646813.m3u8
 #EXTINF:-1 tvg-id="20313" tvg-name="┃IN┃ UTSAV GOLD FHD (UK)" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/utsavgold.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV GOLD FHD (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D823999%26extension%3Dts%26play_token%3DCRE5kK48nE
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/823999.m3u8
 #EXTINF:-1 tvg-id="20314" tvg-name="┃IN┃ UTSAV GOLD HD (UK)" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/utsavgold.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV GOLD HD (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D372699%26extension%3Dts%26play_token%3DwEc1NZ6GMb
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/372699.m3u8
 #EXTINF:-1 tvg-id="20315" tvg-name="┃IN┃ UTSAV GOLD (UK)  ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/utsavgold.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV GOLD (UK)  ⏺ʳᵉᶜ
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D372698%26extension%3Dts%26play_token%3D6QTdfuHFQg
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/372698.m3u8
