@@ -1,74 +1,103 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="2700" tvg-name="┃DE┃ DAZN LA LIGA 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 1
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1025537&extension=m3u8
+#EXTINF:-1 tvg-id="2701" tvg-name="┃DE┃ DAZN LA LIGA 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 2
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1025536&extension=m3u8
+#EXTINF:-1 tvg-id="2702" tvg-name="┃DE┃ DAZN LA LIGA 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 3
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1025535&extension=m3u8
+#EXTINF:-1 tvg-id="2703" tvg-name="┃DE┃ DAZN LA LIGA 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 4
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1025534&extension=m3u8
+#EXTINF:-1 tvg-id="2704" tvg-name="┃DE┃ DAZN LA LIGA 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 5
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1025533&extension=m3u8
+#EXTINF:-1 tvg-id="2705" tvg-name="┃DE┃ DAZN LA LIGA 6" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 6
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1025532&extension=m3u8
+#EXTINF:-1 tvg-id="2706" tvg-name="┃DE┃ DAZN LA LIGA 7" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 7
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1025531&extension=m3u8
+#EXTINF:-1 tvg-id="2707" tvg-name="┃DE┃ DAZN LA LIGA 8" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1025530&extension=m3u8
+#EXTINF:-1 tvg-id="2708" tvg-name="┃DE┃ DAZN LA LIGA 9" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 9
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1025529&extension=m3u8
+#EXTINF:-1 tvg-id="2709" tvg-name="┃DE┃ DAZN LA LIGA 10" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="┃DE┃ DAZN LA LIGA",┃DE┃ DAZN LA LIGA 10
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1025528&extension=m3u8
+#EXTINF:-1 tvg-id="8155" tvg-name="┃ES┃M+ REF FEDERACION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ REF FEDERACION/M+ REF FEDERACION.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃M+ REF FEDERACION FHD
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1279612&extension=m3u8
+#EXTINF:-1 tvg-id="8156" tvg-name="┃ES┃M+ REF FEDERACION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ REF FEDERACION/M+ REF FEDERACION.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃M+ REF FEDERACION HD
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1279613&extension=m3u8
+#EXTINF:-1 tvg-id="8157" tvg-name="┃ES┃M+ REF FEDERACION" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ REF FEDERACION/M+ REF FEDERACION.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃M+ REF FEDERACION
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1279614&extension=m3u8
+#EXTINF:-1 tvg-id="8158" tvg-name="┃ES┃ M+ LA LIGA 4K UHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ M+ LA LIGA 4K UHD
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1044416&extension=m3u8
+#EXTINF:-1 tvg-id="8159" tvg-name="┃ES┃ M+ LA LIGA FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ M+ LA LIGA FHD HEVC
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=699397&extension=m3u8
 #EXTINF:-1 tvg-id="8160" tvg-name="┃ES┃ M+ LA LIGA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ M+ LA LIGA FHD
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/699395.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=699395&extension=m3u8
 #EXTINF:-1 tvg-id="8161" tvg-name="┃ES┃ M+ LA LIGA 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSLALIGA.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ M+ LA LIGA 1 HD
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/587357.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=587357&extension=m3u8
 #EXTINF:-1 tvg-id="8162" tvg-name="┃ES┃ M+ LA LIGA 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSLALIGA.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ M+ LA LIGA 1
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/587356.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=587356&extension=m3u8
 #EXTINF:-1 tvg-id="8163" tvg-name="┃ES┃ M+ LA LIGA 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSLALIGA.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ M+ LA LIGA 2 FHD
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/587355.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=587355&extension=m3u8
 #EXTINF:-1 tvg-id="8164" tvg-name="┃ES┃ M+ LA LIGA 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSLALIGA.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ M+ LA LIGA 2
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/587354.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=587354&extension=m3u8
 #EXTINF:-1 tvg-id="8165" tvg-name="┃ES┃ M+ LA LIGA TV 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSLALIGA.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ M+ LA LIGA TV 3 FHD
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/897409.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=897409&extension=m3u8
 #EXTINF:-1 tvg-id="8166" tvg-name="┃ES┃ LA LIGA HYPERMOTION TV 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ LA LIGA HYPERMOTION TV 1 FHD
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/587349.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=587349&extension=m3u8
 #EXTINF:-1 tvg-id="8167" tvg-name="┃ES┃ LA LIGA HYPERMOTION TV 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ LA LIGA HYPERMOTION TV 1 HD
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/587347.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=587347&extension=m3u8
 #EXTINF:-1 tvg-id="8168" tvg-name="┃ES┃ LA LIGA HYPERMOTION TV 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ LA LIGA HYPERMOTION TV 1
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/587345.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=587345&extension=m3u8
 #EXTINF:-1 tvg-id="8169" tvg-name="┃ES┃ LA LIGA TV HYPERMOTION 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ LA LIGA TV HYPERMOTION 2 FHD
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/897410.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=897410&extension=m3u8
 #EXTINF:-1 tvg-id="8170" tvg-name="┃ES┃ LA LIGA TV HYPERMOTION  2" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ LA LIGA TV HYPERMOTION  2
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/897411.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=897411&extension=m3u8
 #EXTINF:-1 tvg-id="8171" tvg-name="┃ES┃ La liga TV HYPERMOTION 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ La liga TV HYPERMOTION 3 FHD
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/897412.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=897412&extension=m3u8
 #EXTINF:-1 tvg-id="8172" tvg-name="┃ES┃ LA LIGA TV HYPERMOTION 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="┃ES┃ M+ LA LIGA",┃ES┃ LA LIGA TV HYPERMOTION 3 HD
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/897413.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=897413&extension=m3u8
 #EXTINF:-1 tvg-id="8228" tvg-name="┃ES┃ LA LIGA+ 1 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 1 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304911.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304911&extension=m3u8
 #EXTINF:-1 tvg-id="8229" tvg-name="┃ES┃ LA LIGA+ 2 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 2 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304912.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304912&extension=m3u8
 #EXTINF:-1 tvg-id="8230" tvg-name="┃ES┃ LA LIGA+ 3 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 3 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304913.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304913&extension=m3u8
 #EXTINF:-1 tvg-id="8231" tvg-name="┃ES┃ LA LIGA+ 4 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 4 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304914.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304914&extension=m3u8
 #EXTINF:-1 tvg-id="8232" tvg-name="┃ES┃ LA LIGA+ 5 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 5 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304915.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304915&extension=m3u8
 #EXTINF:-1 tvg-id="8233" tvg-name="┃ES┃ LA LIGA+ 6 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 6 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304916.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304916&extension=m3u8
 #EXTINF:-1 tvg-id="8234" tvg-name="┃ES┃ LA LIGA+ 7 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 7 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304917.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304917&extension=m3u8
 #EXTINF:-1 tvg-id="8235" tvg-name="┃ES┃ LA LIGA+ 8 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 8 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304918.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304918&extension=m3u8
 #EXTINF:-1 tvg-id="8236" tvg-name="┃ES┃ LA LIGA+ 9 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 9 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304919.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304919&extension=m3u8
 #EXTINF:-1 tvg-id="8237" tvg-name="┃ES┃ LA LIGA+ 10 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 10 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304920.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304920&extension=m3u8
 #EXTINF:-1 tvg-id="8238" tvg-name="┃ES┃ LA LIGA+ 11 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 11 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304921.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304921&extension=m3u8
 #EXTINF:-1 tvg-id="8239" tvg-name="┃ES┃ LA LIGA+ 12 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 12 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304922.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304922&extension=m3u8
 #EXTINF:-1 tvg-id="8240" tvg-name="┃ES┃ LA LIGA+ 13 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 13 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304923.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304923&extension=m3u8
 #EXTINF:-1 tvg-id="8241" tvg-name="┃ES┃ LA LIGA+ 14 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 14 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304924.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304924&extension=m3u8
 #EXTINF:-1 tvg-id="8242" tvg-name="┃ES┃ LA LIGA+ 15 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 15 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304925.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304925&extension=m3u8
 #EXTINF:-1 tvg-id="8243" tvg-name="┃ES┃ LA LIGA+ 16 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 16 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304926.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304926&extension=m3u8
 #EXTINF:-1 tvg-id="8244" tvg-name="┃ES┃ LA LIGA+ 17 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 17 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304927.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304927&extension=m3u8
 #EXTINF:-1 tvg-id="8245" tvg-name="┃ES┃ LA LIGA+ 18 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 18 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304928.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304928&extension=m3u8
 #EXTINF:-1 tvg-id="8246" tvg-name="┃ES┃ LA LIGA+ 19 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 19 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304929.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304929&extension=m3u8
 #EXTINF:-1 tvg-id="8247" tvg-name="┃ES┃ LA LIGA+ 20 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 20 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304930.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304930&extension=m3u8
 #EXTINF:-1 tvg-id="8248" tvg-name="┃ES┃ LA LIGA+ 21 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 21 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304931.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304931&extension=m3u8
 #EXTINF:-1 tvg-id="8249" tvg-name="┃ES┃ LA LIGA+ 22 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 22 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304932.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304932&extension=m3u8
 #EXTINF:-1 tvg-id="8250" tvg-name="┃ES┃ LA LIGA+ 23 (EVENTOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/┃ES┃ LA LIGA+/LA LIGA.png" group-title="┃ES┃ LA LIGA+",┃ES┃ LA LIGA+ 23 (EVENTOS)
-https://github.com/stablesports711-hue/stable-sports-movie/tree/main/IPTV/LALIGA/1304933.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=1304933&extension=m3u8
