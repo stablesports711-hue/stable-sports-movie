@@ -1,51 +1,51 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="20787" tvg-name="PK┃ ARY DIGITAL (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_13b4f4a71cc0f18b.png" group-title="PK┃ PAKISTAN EU",PK┃ ARY DIGITAL (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373103_
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373103%26extension%3Dts%26play_token%3DHfV58VXBpR
 #EXTINF:-1 tvg-id="20788" tvg-name="PK┃ GEO TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_97f79fbc16c25ccb.png" group-title="PK┃ PAKISTAN EU",PK┃ GEO TV (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373102_
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373102%26extension%3Dts%26play_token%3DywF1pFgyM0
 #EXTINF:-1 tvg-id="20789" tvg-name="PK┃ GEO NEWS (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_96a89452fef55ca6.png" group-title="PK┃ PAKISTAN EU",PK┃ GEO NEWS (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373101_
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373101%26extension%3Dts%26play_token%3DUuL1mU7aAJ
 #EXTINF:-1 tvg-id="20790" tvg-name="PK┃ GEO KAHANI (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_9d9489543a07b4f9.png" group-title="PK┃ PAKISTAN EU",PK┃ GEO KAHANI (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373100_
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373100%26extension%3Dts%26play_token%3DFULR6Semim
 #EXTINF:-1 tvg-id="20791" tvg-name="PK┃ HUM TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_34d1396902b58f30.png" group-title="PK┃ PAKISTAN EU",PK┃ HUM TV (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373099_
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373099%26extension%3Dts%26play_token%3DRx7rwBxuPT
 #EXTINF:-1 tvg-id="20792" tvg-name="PK┃ HUM NEWS (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_eb81d97b92200983.png" group-title="PK┃ PAKISTAN EU",PK┃ HUM NEWS (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373097_
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373097%26extension%3Dts%26play_token%3DKVS7zcLSds
 #EXTINF:-1 tvg-id="20793" tvg-name="PK┃ SAMAA (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_424205d9d836051a.png" group-title="PK┃ PAKISTAN EU",PK┃ SAMAA (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373096_
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373096%26extension%3Dts%26play_token%3DkVaA2lPeKu
 #EXTINF:-1 tvg-id="20794" tvg-name="PK┃ DUNYA NEWS (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_d50990db0cb2952f.png" group-title="PK┃ PAKISTAN EU",PK┃ DUNYA NEWS (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373095_
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373095%26extension%3Dts%26play_token%3DHQNEHCOlyC
 #EXTINF:-1 tvg-id="20795" tvg-name="PK┃ 92 NEWS (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_7023413f88def217.png" group-title="PK┃ PAKISTAN EU",PK┃ 92 NEWS (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373094_
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373094%26extension%3Dts%26play_token%3Dxqg0kX9DMg
 #EXTINF:-1 tvg-id="20796" tvg-name="PK┃ TAKBEER (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_266d78d3e333c614.png" group-title="PK┃ PAKISTAN EU",PK┃ TAKBEER (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373092_
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373092%26extension%3Dts%26play_token%3DtqeOtWMMIe
 #EXTINF:-1 tvg-id="20797" tvg-name="PK┃ PTV GLOBAL (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_689d8b78f9f68c65.png" group-title="PK┃ PAKISTAN EU",PK┃ PTV GLOBAL (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373091_
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373091%26extension%3Dts%26play_token%3DIeFAba0K2j
 #EXTINF:-1 tvg-id="20798" tvg-name="PK┃ NOOR TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f8f08e9bb403f472.png" group-title="PK┃ PAKISTAN EU",PK┃ NOOR TV (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373090_
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373090%26extension%3Dts%26play_token%3DynQVSgxGpj
 #EXTINF:-1 tvg-id="20799" tvg-name="PK┃ IQRA TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_85b13349c6f76df9.png" group-title="PK┃ PAKISTAN EU",PK┃ IQRA TV (UK)
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373089_
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373089%26extension%3Dts%26play_token%3DarT7bvaIcG
 #EXTINF:-1 tvg-id="20800" tvg-name="PK┃ ISLAM CHANNEL" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_1f3992d2a8de0242.png" group-title="PK┃ PAKISTAN EU",PK┃ ISLAM CHANNEL
-http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F373088_
-#EXTINF:-1 tvg-id="18319" tvg-name="PK┃ MTA MUSLIM (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_524c47796eb92d5d.png" group-title="PK┃ PAKISTAN EU",PK┃ MTA MUSLIM (UK)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/373087.m3u8
-#EXTINF:-1 tvg-id="18320" tvg-name="PK┃ MADANI CHANNEL (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_d01b800cf1e7a41d.png" group-title="PK┃ PAKISTAN EU",PK┃ MADANI CHANNEL (UK)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/373086.m3u8
-#EXTINF:-1 tvg-id="18321" tvg-name="PK┃ PEACE TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_18127f2d6f1d682e.png" group-title="PK┃ PAKISTAN EU",PK┃ PEACE TV (UK)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/373085.m3u8
-#EXTINF:-1 tvg-id="18322" tvg-name="PK┃ PEACE TV URDU (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_18127f2d6f1d682e.png" group-title="PK┃ PAKISTAN EU",PK┃ PEACE TV URDU (UK)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/373084.m3u8
-#EXTINF:-1 tvg-id="18323" tvg-name="PK┃ BRITISH MUSLIM (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5f923dc0bb62f3f2.png" group-title="PK┃ PAKISTAN EU",PK┃ BRITISH MUSLIM (UK)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/373083.m3u8
-#EXTINF:-1 tvg-id="18324" tvg-name="PK┃ ISLAM CHANNEL URDU (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_1f3992d2a8de0242.png" group-title="PK┃ PAKISTAN EU",PK┃ ISLAM CHANNEL URDU (UK)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/373082.m3u8
-#EXTINF:-1 tvg-id="18325" tvg-name="PK┃ AHLULBAYT TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5819976e736fd4b4.png" group-title="PK┃ PAKISTAN EU",PK┃ AHLULBAYT TV (UK)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/373081.m3u8
-#EXTINF:-1 tvg-id="18326" tvg-name="PK┃ AHLEBAIT TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5819976e736fd4b4.png" group-title="PK┃ PAKISTAN EU",PK┃ AHLEBAIT TV (UK)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/373080.m3u8
-#EXTINF:-1 tvg-id="18327" tvg-name="PK┃ HIDAYAT TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_e4c44aa925627e73.png" group-title="PK┃ PAKISTAN EU",PK┃ HIDAYAT TV (UK)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/373079.m3u8
-#EXTINF:-1 tvg-id="18328" tvg-name="PK┃ HYDER TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_17b24901a882d7bb.png" group-title="PK┃ PAKISTAN EU",PK┃ HYDER TV (UK)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/373078.m3u8
-#EXTINF:-1 tvg-id="18329" tvg-name="PK┃ EMAN CHANNEL (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_bb3d43e6efe95d7e.png" group-title="PK┃ PAKISTAN EU",PK┃ EMAN CHANNEL (UK)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/373077.m3u8
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373088%26extension%3Dts%26play_token%3DhRnNf5oNto
+#EXTINF:-1 tvg-id="20801" tvg-name="PK┃ MTA MUSLIM (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_524c47796eb92d5d.png" group-title="PK┃ PAKISTAN EU",PK┃ MTA MUSLIM (UK)
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373087%26extension%3Dts%26play_token%3DLHVm1hcv8Z
+#EXTINF:-1 tvg-id="20802" tvg-name="PK┃ MADANI CHANNEL (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_d01b800cf1e7a41d.png" group-title="PK┃ PAKISTAN EU",PK┃ MADANI CHANNEL (UK)
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373086%26extension%3Dts%26play_token%3D0569QqP2ZP
+#EXTINF:-1 tvg-id="20803" tvg-name="PK┃ PEACE TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_18127f2d6f1d682e.png" group-title="PK┃ PAKISTAN EU",PK┃ PEACE TV (UK)
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373085%26extension%3Dts%26play_token%3Dgsxfzh4mAI
+#EXTINF:-1 tvg-id="20804" tvg-name="PK┃ PEACE TV URDU (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_18127f2d6f1d682e.png" group-title="PK┃ PAKISTAN EU",PK┃ PEACE TV URDU (UK)
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373084%26extension%3Dts%26play_token%3DQdUQpppaOc
+#EXTINF:-1 tvg-id="20805" tvg-name="PK┃ BRITISH MUSLIM (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5f923dc0bb62f3f2.png" group-title="PK┃ PAKISTAN EU",PK┃ BRITISH MUSLIM (UK)
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373083%26extension%3Dts%26play_token%3DNuX2leaR1h
+#EXTINF:-1 tvg-id="20806" tvg-name="PK┃ ISLAM CHANNEL URDU (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_1f3992d2a8de0242.png" group-title="PK┃ PAKISTAN EU",PK┃ ISLAM CHANNEL URDU (UK)
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373082%26extension%3Dts%26play_token%3DBeB7knfv8V
+#EXTINF:-1 tvg-id="20807" tvg-name="PK┃ AHLULBAYT TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5819976e736fd4b4.png" group-title="PK┃ PAKISTAN EU",PK┃ AHLULBAYT TV (UK)
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373081%26extension%3Dts%26play_token%3DsHWE3Zei60
+#EXTINF:-1 tvg-id="20808" tvg-name="PK┃ AHLEBAIT TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5819976e736fd4b4.png" group-title="PK┃ PAKISTAN EU",PK┃ AHLEBAIT TV (UK)
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373080%26extension%3Dts%26play_token%3Do5ywltSdYd
+#EXTINF:-1 tvg-id="20809" tvg-name="PK┃ HIDAYAT TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_e4c44aa925627e73.png" group-title="PK┃ PAKISTAN EU",PK┃ HIDAYAT TV (UK)
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373079%26extension%3Dts%26play_token%3DJzFY5nZx89
+#EXTINF:-1 tvg-id="20810" tvg-name="PK┃ HYDER TV (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_17b24901a882d7bb.png" group-title="PK┃ PAKISTAN EU",PK┃ HYDER TV (UK)
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373078%26extension%3Dts%26play_token%3D2F8waCHR5S
+#EXTINF:-1 tvg-id="20811" tvg-name="PK┃ EMAN CHANNEL (UK)" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_bb3d43e6efe95d7e.png" group-title="PK┃ PAKISTAN EU",PK┃ EMAN CHANNEL (UK)
+http://main.light-ott.net/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D373077%26extension%3Dts%26play_token%3D3bNDKHPgzy
