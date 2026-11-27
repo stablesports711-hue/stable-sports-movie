@@ -28,34 +28,34 @@ http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&strea
 #EXTINF:-1 tvg-id="23625" tvg-name="WC┃ SUPER SPORTS CRICKET HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ SUPER SPORTS CRICKET HD
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Flocalhost%2Fch%2F809391_
 #EXTINF:-1 tvg-id="23626" tvg-name="WC┃ TEN SPORTS HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ TEN SPORTS HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809396%26extension%3Dts%26play_token%3DhVagXzTalY
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809396.m3u8
 #EXTINF:-1 tvg-id="23627" tvg-name="WC┃ A SPORTS HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ A SPORTS HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809397%26extension%3Dts%26play_token%3DK4NOcRTjkY
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809397.m3u8
 #EXTINF:-1 tvg-id="23628" tvg-name="WC┃ PTV SPORTS HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ PTV SPORTS HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809398%26extension%3Dts%26play_token%3DLgwJEE308l
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809398.m3u8
 #EXTINF:-1 tvg-id="23629" tvg-name="WC┃ GEO SUPER HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ GEO SUPER HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809399%26extension%3Dts%26play_token%3DW2rzUVREHP
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809399.m3u8
 #EXTINF:-1 tvg-id="23630" tvg-name="WC┃ STARZPLAY CRLIFE 1 HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ STARZPLAY CRLIFE 1 HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809400%26extension%3Dts%26play_token%3Dn4TuJT0Wdy
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809400.m3u8
 #EXTINF:-1 tvg-id="23631" tvg-name="WC┃ STARZPLAY CRLIFE 2 HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ STARZPLAY CRLIFE 2 HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809401%26extension%3Dts%26play_token%3DHSqiXkwkcp
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809401.m3u8
 #EXTINF:-1 tvg-id="23632" tvg-name="WC┃ STARZPLAY CRIIICLIFE MAX HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ STARZPLAY CRIIICLIFE MAX HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809402%26extension%3Dts%26play_token%3DVMotPUwM3z
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809402.m3u8
 #EXTINF:-1 tvg-id="23633" tvg-name="WC┃ HUB SPORTS 3 HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ HUB SPORTS 3 HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809403%26extension%3Dts%26play_token%3DsRMJe70atg
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809403.m3u8
 #EXTINF:-1 tvg-id="23634" tvg-name="WC┃ FLOW SPORTS HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ FLOW SPORTS HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809404%26extension%3Dts%26play_token%3D2dAzJ4Hoag
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809404.m3u8
 #EXTINF:-1 tvg-id="23635" tvg-name="WC┃ RUSH SPORTS HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ RUSH SPORTS HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809405%26extension%3Dts%26play_token%3DKIqhIr8TEW
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809405.m3u8
 #EXTINF:-1 tvg-id="23636" tvg-name="WC┃ RUSH SPORTS 2 HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ RUSH SPORTS 2 HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809406%26extension%3Dts%26play_token%3DtzBCGZO3Qn
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809406.m3u8
 #EXTINF:-1 tvg-id="23637" tvg-name="WC┃ SPORTSMAX HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ SPORTSMAX HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809407%26extension%3Dts%26play_token%3DYZpLrxMlK6
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809407.m3u8
 #EXTINF:-1 tvg-id="23638" tvg-name="WC┃ SPORTSMAX 2 HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ SPORTSMAX 2 HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809408%26extension%3Dts%26play_token%3DiedgMHBgPk
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809408.m3u8
 #EXTINF:-1 tvg-id="23639" tvg-name="WC┃ SPORTSMAX CRICKET HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ SPORTSMAX CRICKET HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809409%26extension%3Dts%26play_token%3DunyX6lXMIb
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809409.m3u8
 #EXTINF:-1 tvg-id="23640" tvg-name="WC┃ JIO CRICKET ENGLISH HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ JIO CRICKET ENGLISH HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809411%26extension%3Dts%26play_token%3D0SCBOK0n9W
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809411.m3u8
 #EXTINF:-1 tvg-id="23641" tvg-name="WC┃ CRICKET GOLD HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2179bb102cfe31ad.png" group-title="WORLD CRICKET",WC┃ CRICKET GOLD HD
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A1D%3A12%3A35&stream=ffmpeg+http%3A%2F%2Fmain.light-ott.net%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A1D%3A12%3A35%26stream%3D809410%26extension%3Dts%26play_token%3D9jpT3pBPDk
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/809410.m3u8
