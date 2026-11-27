@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5550000
-http://main.light-ott.net/live/MAGCE2C9VJH/KWPJ7DG7/1470725.m3u8?mac=00:1A:79:1D:12:35
+http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=908649&extension=m3u8
 #http://bosstv.click:8080/live/18012689/77561563/94406.m3u8
 #@stable-sports-iptv™
