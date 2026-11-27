@@ -7,12 +7,12 @@ BASE_URL = f"http://main.light-ott.net/play/live.php?mac={MAC_ADDRESS}&stream={{
 
 # ==================== সহজে ফোল্ডার বদলানোর জায়গা ====================
 BASE_DIR = "IPTV"
-SUBFOLDER = "ASIA-TV"  # অন্য ফোল্ডারে রাখতে চাইলে শুধু এই নামটি বদলান
+SUBFOLDER = "WC-CRICKET"  # অন্য ফোল্ডারে রাখতে চাইলে শুধু এই নামটি বদলান
 # =====================================================================
 
 TARGET_DIR = os.path.join(BASE_DIR, SUBFOLDER) if SUBFOLDER else BASE_DIR
 GITHUB_RAW_BASE = (
-    f"https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/"
+    f"https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/WC-CRICKET/"
 )
 
 
